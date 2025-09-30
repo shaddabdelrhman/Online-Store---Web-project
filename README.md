@@ -4,29 +4,29 @@ An **ASP.NET Web Forms online store** project that demonstrates how frontend, ba
 
 #**🚀 Features**
 
--User authentication (login/logout with session management)
+- User authentication (login/logout with session management)
 
--Database integration with LocalDB (via DatabaseHelper)
+- Database integration with LocalDB (via DatabaseHelper)
 
--Clean separation of concerns between frontend (.aspx), backend (.aspx.cs), and data access layer
+- Clean separation of concerns between frontend (.aspx), backend (.aspx.cs), and data access layer
 
--Page-to-page navigation with session state
+- Page-to-page navigation with session state
 
--Configurable connection strings and settings via Web.config
+- Configurable connection strings and settings via Web.config
 
 # **🔄 Data Flow (Pipeline)**
 
-1.User Request → User interacts with ASPX page (e.g., submits login form)
+1. User Request → User interacts with ASPX page (e.g., submits login form)
 
-2.Request Processing → Routed to the correct page handler
+2. Request Processing → Routed to the correct page handler
 
-3.Backend Logic → Code-behind executes business logic (e.g., user authentication)
+3. Backend Logic → Code-behind executes business logic (e.g., user authentication)
 
-4.Data Access Layer → Database queries executed through DatabaseHelper
+4. Data Access Layer → Database queries executed through DatabaseHelper
 
-5.Response Generation → Session updated and user redirected to target page
+5. Response Generation → Session updated and user redirected to target page
 
-6.Page Rendering → HTML/CSS/JS sent back to browser
+6. Page Rendering → HTML/CSS/JS sent back to browser
 
 # **🧩 Project Structure & Linkages**
 
