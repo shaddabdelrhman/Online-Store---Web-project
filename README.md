@@ -40,10 +40,10 @@ Global.asax / RouteConfig → Setup routes and app-wide configuration
 
 ⚙️ Tech Stack
 
-ASP.NET Web Forms
+-ASP.NET Web Forms
 
-C#
+-C#
 
-SQL Server LocalDB
+-SQL Server LocalDB
 
-HTML, CSS, JavaScript
+-HTML, CSS, JavaScript
