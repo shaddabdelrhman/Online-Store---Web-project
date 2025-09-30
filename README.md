@@ -1,4 +1,4 @@
-#**🛒 ASP.NET Online Store**
+# **🛒 ASP.NET Online Store**
 An **ASP.NET Web Forms online store** project that demonstrates how frontend, backend, and database layers work together in a typical e-commerce application.
 <img width="1087" height="727" alt="web project" src="https://github.com/user-attachments/assets/b2c34240-a8cd-4ad2-9952-53febcd20a97" />
 
@@ -14,7 +14,7 @@ An **ASP.NET Web Forms online store** project that demonstrates how frontend, ba
 
 -Configurable connection strings and settings via Web.config
 
-#**🔄 Data Flow (Pipeline)**
+# **🔄 Data Flow (Pipeline)**
 
 1.User Request → User interacts with ASPX page (e.g., submits login form)
 
@@ -28,7 +28,7 @@ An **ASP.NET Web Forms online store** project that demonstrates how frontend, ba
 
 6.Page Rendering → HTML/CSS/JS sent back to browser
 
-#**🧩 Project Structure & Linkages**
+# **🧩 Project Structure & Linkages**
 
 -Web.config → Stores DB connection strings & app settings
 
@@ -40,7 +40,7 @@ An **ASP.NET Web Forms online store** project that demonstrates how frontend, ba
 
 -Global.asax / RouteConfig → Setup routes and app-wide configuration
 
-#**⚙️ Tech Stack**
+# **⚙️ Tech Stack**
 
 -ASP.NET Web Forms
 
