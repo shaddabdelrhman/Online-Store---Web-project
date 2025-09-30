@@ -1,0 +1,55 @@
+﻿/* Wrapping element */
+.body-content {
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set widths on form inputs */
+input,
+select,
+textarea {    max-width: 280px;
+}
+
+/* Make images responsive */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Responsive: Mobile phones */
+@media screen and (max-width: 767px) {
+    .body-content {
+        padding: 10px;
+    }
+
+    input,
+    select,
+    textarea {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    nav,
+    .sidebar,
+    .footer {
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    .main-content {
+        padding: 10px;
+    }
+
+    h1, h2, h3 {
+        font-size: 1.5em;
+    }
+}
