@@ -1,4 +1,5 @@
 An ASP.NET Web Forms online store project that demonstrates how frontend, backend, and database layers work together in a typical e-commerce application.
+<img width="1087" height="727" alt="web project" src="https://github.com/user-attachments/assets/b2c34240-a8cd-4ad2-9952-53febcd20a97" />
 
 🚀 Features
 
