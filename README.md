@@ -30,22 +30,22 @@ An **ASP.NET Web Forms online store** project that demonstrates how frontend, ba
 
 # **🧩 Project Structure & Linkages**
 
--Web.config → Stores DB connection strings & app settings
+- Web.config → Stores DB connection strings & app settings
 
--Models & DatabaseHelper → Handle SQL queries and data retrieval
+- Models & DatabaseHelper → Handle SQL queries and data retrieval
 
--Frontend & Code-behind → Server controls trigger event handlers in C#
+- Frontend & Code-behind → Server controls trigger event handlers in C#
 
--Session State & Redirects → Manage user state and navigation
+- Session State & Redirects → Manage user state and navigation
 
--Global.asax / RouteConfig → Setup routes and app-wide configuration
+- Global.asax / RouteConfig → Setup routes and app-wide configuration
 
 # **⚙️ Tech Stack**
 
--ASP.NET Web Forms
+- ASP.NET Web Forms
 
--C#
+- C#
 
--SQL Server LocalDB
+- SQL Server LocalDB
 
--HTML, CSS, JavaScript
+- HTML, CSS, JavaScript
